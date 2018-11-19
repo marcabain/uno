@@ -121,7 +121,7 @@ while not gameover:
                 elif cardtoplay==len(hand[i])+1:  
                     hand[i].append(deck.pop())  
                     cardlegal=True
-#lines 91 is just turning the string input by the user into a number
+#lines 118 is just turning the string input by the user into a number
 #The elif statement is checking if number given is the "draw a card"
 #option since we list out the cards and then make that choice next
 # (so it is alwyas len(hand[i]+1))
