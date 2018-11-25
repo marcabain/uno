@@ -2,7 +2,7 @@
 """
 Created on Mon Oct 22 22:03:41 2018
 
-@author: Teri
+@author: 
 """
 import sys
 import random
